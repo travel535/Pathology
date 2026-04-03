@@ -1,0 +1,5 @@
+{
+  "name": "FieldOfView Planner",
+  "description": "Calculate the number of microscope or screen fields required to scan a specific target area. Includes AI-powered sampling advice.",
+  "requestFramePermissions": []
+}
